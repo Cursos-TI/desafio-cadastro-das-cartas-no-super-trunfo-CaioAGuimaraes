@@ -1,6 +1,6 @@
 # 🃏 Desafio Cartas Super Trunfo - Países - Cadastro das Cartas
 
-Este repositório contém a implementação do **Desafio Cartas Super Trunfo - Países** proposto na disciplina de Lógica de Programação da Estácio de Sá. O projeto está dividido em três níveis de complexidade: Novato, Aventureiro e Mestre.
+Este repositório contém a implementação do **Desafio Cartas Super Trunfo - Países** proposto na disciplina de Introdução à Programação de Computadores da Estácio de Sá. O projeto está dividido em três níveis de complexidade: Novato, Aventureiro e Mestre.
 
 ---
 
@@ -58,7 +58,7 @@ Este repositório contém a implementação do **Desafio Cartas Super Trunfo - P
 
 ## ✍️ Autor
 
-Caio Guimarães  
-Aluno Estácio de Sá
+Caio Augusto Teixeira Guimarães  
+Aluno Estácio de Sá – Gestão da Tecnologia da Informação
 
 ---
